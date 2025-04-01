@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MN Associates - Your trusted consultancy for professional services">
+    <meta name="keywords" content="Consultancy, Business Solutions, MN Associates">
+    <meta name="author" content="MN Associates">
+    <title>MN Associates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        MN Associates
+    </header>
+    <section>
+        <h2>Welcome to MN Associates</h2>
+        <p>We provide expert consultancy services to help your business grow.</p>
+        <p>Contact us at: <strong>mnassociates@example.com</strong></p>
+    </section>
+    <footer>
+        &copy; 2025 MN Associates. All rights reserved.
+    </footer>
+</body>
+</html>
